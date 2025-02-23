@@ -53,7 +53,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/haeffema/haeffema/output/snake.svg" alt="Snake animation" />
-
-###
